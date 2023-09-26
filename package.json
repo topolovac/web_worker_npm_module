@@ -1,0 +1,12 @@
+{
+  "name": "web_worker_npm_module",
+  "version": "1.0.0",
+  "description": "Learning how to create npm module with web worker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matej Topolovac",
+  "license": "ISC"
+}
