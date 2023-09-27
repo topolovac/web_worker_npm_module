@@ -1,6 +1,6 @@
 {
   "name": "web_worker_npm_module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Learning how to create npm module with web worker.",
   "main": "index.js",
   "scripts": {
